@@ -2,6 +2,7 @@
 
 
 ## 项目说明
+![image](https://github.com/user-attachments/assets/29f4b4a4-3778-40e8-a79c-04cd9a07523e)
 
 ### pikpak会员自动邀请程序，python编写
 ### 原作者：B站纸鸢的花语
